@@ -10,7 +10,7 @@ By the end of the lab, all tests in the report should be passing.
 */
 
 const studentInformation = {
-  name: "Gustavo Grijalba",
+  name: "Gustava Grijalba",
   grade: "13",
   advisor: "Brad Pitt",
   major: "Computer Science",
